@@ -1,0 +1,37 @@
+_repo: Lily-Pearl-and-The-Mistress-of-Rosedale_35765
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Glenwood, Ida
+    aliases:
+    - Gorton, Cynthia M. Roberts
+    - Gorton, Cynthia M. R.
+    - Gorton, Mrs. C. M. R.
+    birthdate: 1829
+    deathdate: &id001 1894
+    gutenberg_agent_id: '37887'
+    url: http://www.gutenberg.org/2009/agents/37887
+  editor:
+    agent_name: Kirkland, Joseph
+    alias: Kirkland, Major Joseph
+    birthdate: 1830
+    deathdate: *id001
+    gutenberg_agent_id: '37888'
+    url: http://www.gutenberg.org/2009/agents/37888
+description: ''
+gutenberg_issued: '2011-04-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35765'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PS'
+title: Lily Pearl and The Mistress of Rosedale
+url: http://www.gutenberg.org/ebooks/35765

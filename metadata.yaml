@@ -11,17 +11,19 @@ creator:
     - Gorton, Cynthia M. R.
     - Gorton, Mrs. C. M. R.
     birthdate: 1829
-    deathdate: &id001 1894
+    deathdate: 1894
     gutenberg_agent_id: '37887'
     url: http://www.gutenberg.org/2009/agents/37887
   editor:
     agent_name: Kirkland, Joseph
     alias: Kirkland, Major Joseph
     birthdate: 1830
-    deathdate: *id001
+    deathdate: 1894
     gutenberg_agent_id: '37888'
     url: http://www.gutenberg.org/2009/agents/37888
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35765#Lily-Pearl-and-The-Mistress-of-Rosedale
 gutenberg_issued: '2011-04-04'
 gutenberg_type: Text
 identifiers:
